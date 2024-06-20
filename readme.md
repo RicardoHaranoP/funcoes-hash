@@ -1,3 +1,3 @@
-## Funções Hash
-Criação de funções hash
+
+Implementação de funções hash, encriptação simétrica e encriptação assimétrica
 
